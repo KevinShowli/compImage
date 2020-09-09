@@ -1,0 +1,24 @@
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+    at Function.from (buffer.js:331:9)
+    at C:\Users\Administrator\Desktop\project\node\compImg\routes\index.js:22:23
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+    at Function.from (buffer.js:331:9)
+    at C:\Users\Administrator\Desktop\project\node\compImg\routes\index.js:22:23
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+    at Function.from (buffer.js:331:9)
+    at C:\Users\Administrator\Desktop\project\node\compImg\routes\index.js:21:23
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+    at Function.from (buffer.js:331:9)
+    at C:\Users\Administrator\Desktop\project\node\compImg\routes\index.js:21:23
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+    at Function.from (buffer.js:331:9)
+    at C:\Users\Administrator\Desktop\project\node\compImg\routes\index.js:23:23
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+    at Function.from (buffer.js:331:9)
+    at C:\Users\Administrator\Desktop\project\node\compImg\routes\index.js:23:23
